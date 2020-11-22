@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "rsx_arena",
+    "rsx_tree",
+    "rsx_dom"
+]

@@ -1,0 +1,12 @@
+[package]
+name = "rsx_arena"
+version = "0.1.0"
+authors = ["Djedou <djedouarnaud.aman@gmail.com>"]
+
+[lib]
+name = "rsx_arena"
+
+[dependencies]
+fnv = "1.0.6"
+num-traits = "0.2.0"
+smallvec = "0.6.0"

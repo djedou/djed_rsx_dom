@@ -1,0 +1,14 @@
+[package]
+name = "rsx_tree"
+version = "0.1.0"
+authors = ["Djedou <djedouarnaud.aman@gmail.com>"]
+
+[lib]
+name = "rsx_tree"
+
+[features]
+vec-arena = []
+hashmap-arena = []
+
+[dependencies]
+rsx_arena = { path = "../rsx_arena", default-features = false }
